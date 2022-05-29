@@ -1,1 +1,1 @@
-Simulation of open quantum systems IBMQ using Qiskit.
+Simulation of open quantum systems on IBMQ using Qiskit.
