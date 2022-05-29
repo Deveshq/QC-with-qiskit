@@ -1,2 +1,2 @@
 ## QC-with-qiskit
-Quantum Computing Algorithms and some other Qiskit programs
+Some short projects, algorithm implementation and other Qiskit programs.
